@@ -1,0 +1,1 @@
+add_executable(01_open_closed_principle main.cpp)
