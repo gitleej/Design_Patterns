@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 /**
  * @brief   开闭原则
