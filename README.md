@@ -6,3 +6,4 @@
 - [依赖倒转原则](./04_dependency_inversion_principle)
 - [简单工厂模式](./05_simple_factory_pattern)
 - [工厂方法模式](./06_factory_method_pattern)
+- [抽象工厂模式](./07_abstract_factory_pattern)
